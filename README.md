@@ -1,6 +1,6 @@
 # @kodansha/prettier-config
 
-KODANSHA [Prettier](https://prettier.io) configurations.
+KODANSHA [shareable config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for [Prettier](https://prettier.io/).
 
 ## Installation
 
