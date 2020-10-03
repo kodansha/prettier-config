@@ -1,0 +1,20 @@
+{
+  "name": "@kodansha/prettier-config",
+  "version": "1.0.0",
+  "description": "KODANSHA Prettier Configurations",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodansha/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "author": "KODANSHAtech LLC.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodansha/prettier-config/issues"
+  },
+  "homepage": "https://github.com/kodansha/prettier-config"
+}
