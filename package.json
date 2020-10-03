@@ -2,7 +2,7 @@
   "name": "@kodansha/prettier-config",
   "version": "1.0.0",
   "description": "KODANSHA Prettier Configurations",
-  "main": "index.json",
+  "main": "prettier.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kodansha/prettier-config.git"
