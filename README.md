@@ -1,5 +1,8 @@
 # @kodansha/prettier-config
 
+> [!IMPORTANT]  
+> This package is deprecated and no longer maintained.
+
 KODANSHA [shareable config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for [Prettier](https://prettier.io/).
 
 ## Installation
